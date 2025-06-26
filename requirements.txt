@@ -1,4 +1,4 @@
 aiogram==2.25.2
-aionttp==3.8.6
+aiohttp==3.8.6
 async-timeout==4.0.3
 magic-filter==1.0.12
